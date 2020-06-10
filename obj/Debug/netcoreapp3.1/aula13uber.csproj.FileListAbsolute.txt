@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\bin\Debug\netcoreapp3.1\aula13uber.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\aula13uber\obj\Debug\netcoreapp3.1\aula13uber.genruntimeconfig.cache
